@@ -1,5 +1,3 @@
-## README.md
-
 # Simple Video Stick with Audio
 
 This Python script concatenates multiple video files, scales them to a uniform size, optionally applies a slow-motion effect, and adds an audio track. The script uses MoviePy for video manipulation and requires FFmpeg for video processing.
